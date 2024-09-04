@@ -4,4 +4,5 @@ Unet/checkpoints
 Unet/wandb
 HED/hed-data.tar
 HED/output
+.ssh
 *.pyc
