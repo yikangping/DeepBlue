@@ -1,0 +1,7 @@
+Unet/data
+HED/data
+Unet/checkpoints
+Unet/wandb
+HED/hed-data.tar
+HED/output
+*.pyc
