@@ -5,4 +5,5 @@ Unet/wandb
 HED/hed-data.tar
 HED/output
 .ssh
+.vscode
 *.pyc
