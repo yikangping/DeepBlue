@@ -1,0 +1,78 @@
+module.conv1_1.weight      lr:    1 decay:1
+module.conv1_1.bias        lr:    2 decay:0
+module.conv1_2.weight      lr:    1 decay:1
+module.conv1_2.bias        lr:    2 decay:0
+module.conv2_1.weight      lr:    1 decay:1
+module.conv2_1.bias        lr:    2 decay:0
+module.conv2_2.weight      lr:    1 decay:1
+module.conv2_2.bias        lr:    2 decay:0
+module.conv3_1.weight      lr:    1 decay:1
+module.conv3_1.bias        lr:    2 decay:0
+module.conv3_2.weight      lr:    1 decay:1
+module.conv3_2.bias        lr:    2 decay:0
+module.conv3_3.weight      lr:    1 decay:1
+module.conv3_3.bias        lr:    2 decay:0
+module.conv4_1.weight      lr:    1 decay:1
+module.conv4_1.bias        lr:    2 decay:0
+module.conv4_2.weight      lr:    1 decay:1
+module.conv4_2.bias        lr:    2 decay:0
+module.conv4_3.weight      lr:    1 decay:1
+module.conv4_3.bias        lr:    2 decay:0
+module.conv5_1.weight      lr:  100 decay:1
+module.conv5_1.bias        lr:  200 decay:0
+module.conv5_2.weight      lr:  100 decay:1
+module.conv5_2.bias        lr:  200 decay:0
+module.conv5_3.weight      lr:  100 decay:1
+module.conv5_3.bias        lr:  200 decay:0
+module.score_dsn1.weight   lr: 0.01 decay:1
+module.score_dsn1.bias     lr: 0.02 decay:0
+module.score_dsn2.weight   lr: 0.01 decay:1
+module.score_dsn2.bias     lr: 0.02 decay:0
+module.score_dsn3.weight   lr: 0.01 decay:1
+module.score_dsn3.bias     lr: 0.02 decay:0
+module.score_dsn4.weight   lr: 0.01 decay:1
+module.score_dsn4.bias     lr: 0.02 decay:0
+module.score_dsn5.weight   lr: 0.01 decay:1
+module.score_dsn5.bias     lr: 0.02 decay:0
+module.score_final.weight  lr:0.001 decay:1
+module.score_final.bias    lr:0.002 decay:0
+=> Start loading parameters...
+=> Loaded module.conv1_1.weight.
+=> Loaded module.conv1_1.bias.
+=> Loaded module.conv1_2.weight.
+=> Loaded module.conv1_2.bias.
+=> Loaded module.conv2_1.weight.
+=> Loaded module.conv2_1.bias.
+=> Loaded module.conv2_2.weight.
+=> Loaded module.conv2_2.bias.
+=> Loaded module.conv3_1.weight.
+=> Loaded module.conv3_1.bias.
+=> Loaded module.conv3_2.weight.
+=> Loaded module.conv3_2.bias.
+=> Loaded module.conv3_3.weight.
+=> Loaded module.conv3_3.bias.
+=> Loaded module.conv4_1.weight.
+=> Loaded module.conv4_1.bias.
+=> Loaded module.conv4_2.weight.
+=> Loaded module.conv4_2.bias.
+=> Loaded module.conv4_3.weight.
+=> Loaded module.conv4_3.bias.
+=> Loaded module.conv5_1.weight.
+=> Loaded module.conv5_1.bias.
+=> Loaded module.conv5_2.weight.
+=> Loaded module.conv5_2.bias.
+=> Loaded module.conv5_3.weight.
+=> Loaded module.conv5_3.bias.
+=> Loaded module.score_dsn1.weight.
+=> Loaded module.score_dsn1.bias.
+=> Loaded module.score_dsn2.weight.
+=> Loaded module.score_dsn2.bias.
+=> Loaded module.score_dsn3.weight.
+=> Loaded module.score_dsn3.bias.
+=> Loaded module.score_dsn4.weight.
+=> Loaded module.score_dsn4.bias.
+=> Loaded module.score_dsn5.weight.
+=> Loaded module.score_dsn5.bias.
+=> Loaded module.score_final.weight.
+=> Loaded module.score_final.bias.
+=> Finish loading parameters.
